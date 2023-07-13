@@ -1,4 +1,6 @@
-#US-CNN: utilizaing deep neural networks for ultrasound overlapping echoes separation.
+# US-CNN: Detection of overlapping ultrasonic echoes with deep neural networks
+
+Link to paper: https://www.sciencedirect.com/science/article/abs/pii/S0041624X21002183
 
 run:
 
