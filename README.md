@@ -1,4 +1,4 @@
-US-CNN: utilizaing deep neural networks for ultrasound overlapping echoes separation.
+#US-CNN: utilizaing deep neural networks for ultrasound overlapping echoes separation.
 
 run:
 
