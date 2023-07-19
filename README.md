@@ -5,7 +5,8 @@
 This code package implements the method described in the paper "Detection of overlapping ultrasonic echoes with deep neural networks
 ". Code package includes simulation of overlapping ultrasonic echoes and detection of echoes using CNNs.
 
-Link to paper: https://www.sciencedirect.com/science/article/abs/pii/S0041624X21002183
+paper: https://www.sciencedirect.com/science/article/abs/pii/S0041624X21002183
+Code: https://github.com/alonshpigler/US-CNN
 
 run:
 
