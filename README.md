@@ -6,19 +6,3 @@ This code package implements the method described in the paper "Detection of ove
 ". Code package includes simulation of overlapping ultrasonic echoes and detection of echoes using CNNs.
 
 paper: https://www.sciencedirect.com/science/article/abs/pii/S0041624X21002183
-Code: https://github.com/alonshpigler/US-CNN
-
-run:
-
-main for running an experiment.   In it, the experiment main arguments are set:
-    - assumption: defines for the simulated data distribution if it is general or specific
-    - test_data_type: what data to train on
-
-    Other parameters can be set in kwargs dictionary.
-
-
-configuration:
-
-     - config: the experiment parameters configuration
-     - path_config: path configuration
-
